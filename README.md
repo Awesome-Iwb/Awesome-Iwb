@@ -42,14 +42,14 @@
 
 以下分类标签来源于 `_data/project.json` 中 `categories` 数组的定义：
 
-| 分类 | 数量 |
-|------|------|
+| 分类 | 数量 | 跳转 |
+|------|------|------|
 <!-- CATEGORY_TAGS_START -->
-| 屏幕批注与白板 | <img src="https://img.shields.io/badge/8个-gray" alt="8"> |
-| 课程管理 | <img src="https://img.shields.io/badge/6个-gray" alt="6"> |
-| 信息展示与看板 | <img src="https://img.shields.io/badge/14个-gray" alt="14"> |
-| 课堂互动 | <img src="https://img.shields.io/badge/8个-gray" alt="8"> |
-| 系统工具与辅助 | <img src="https://img.shields.io/badge/12个-gray" alt="12"> |
+| [屏幕批注与白板](#screen-annotation) | <img src="https://img.shields.io/badge/8个-gray" alt="8"> | <a href="#screen-annotation">→</a> |
+| [课程管理](#course-management) | <img src="https://img.shields.io/badge/6个-gray" alt="6"> | <a href="#course-management">→</a> |
+| [信息展示与看板](#info-display) | <img src="https://img.shields.io/badge/14个-gray" alt="14"> | <a href="#info-display">→</a> |
+| [课堂互动](#classroom-interaction) | <img src="https://img.shields.io/badge/8个-gray" alt="8"> | <a href="#classroom-interaction">→</a> |
+| [系统工具与辅助](#system-utils) | <img src="https://img.shields.io/badge/12个-gray" alt="12"> | <a href="#system-utils">→</a> |
 <!-- CATEGORY_TAGS_END -->
 
 > 以上分类名称、数量均提取自 [\_data/project.json](./_data/project.json) 的 `categories[].name` 和 `categories[].projects.length`。修改 JSON 数据后，对应更新此表即可。
@@ -57,6 +57,18 @@
 ---
 
 ## 📚 软件清单
+
+| 分类 | 项目数 |
+|------|--------|
+| [屏幕批注与白板](#screen-annotation) | 8 |
+| [课程管理](#course-management) | 6 |
+| [信息展示与看板](#info-display) | 14 |
+| [课堂互动](#classroom-interaction) | 8 |
+| [系统工具与辅助](#system-utils) | 12 |
+
+---
+
+<a id="screen-annotation"></a>
 
 ### ✏️ 屏幕批注与白板
 
@@ -73,6 +85,8 @@
 | LanStartWrite | wwiinnddyy |
 | OpenBoard | OpenBoard-org |
 
+<a id="course-management"></a>
+
 ### 📅 课程管理
 
 涵盖课表展示、班级信息管理以及相关生态插件。
@@ -85,6 +99,8 @@
 | ElectronClassSchedule | EnderWolf006 |
 | ExtraIsland | LiPolymer |
 | IslandCaller | HUSX100 |
+
+<a id="info-display"></a>
 
 ### 📊 信息展示与看板
 
@@ -107,6 +123,8 @@
 | ExamClock | L33Z22L11 |
 | FinitoBoard | Xwei1645 |
 
+<a id="classroom-interaction"></a>
+
 ### 🎲 课堂互动
 
 随机点名、抽号器等活跃课堂气氛的互动工具。
@@ -121,6 +139,8 @@
 | SecRandom | SECTL |
 | RandPicker | xuanxuan1231 |
 | 蓝屏抽奖机 | Lanpinggai666 |
+
+<a id="system-utils"></a>
 
 ### 🔧 系统工具与辅助
 
