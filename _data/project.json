@@ -1,0 +1,93 @@
+{
+  "categories": [
+    {
+      "id": "screen-annotation",
+      "name": "屏幕批注与白板",
+      "description": "提供屏幕绘图、PPT联动、快捷白板等能力，是教室一体机最核心的工具品类",
+      "projects": [
+        { "name": "Ink Canvas Plus", "developer": "Clover Yan" },
+        { "name": "Ink Canvas Artistry", "developer": "WuChanging" },
+        { "name": "智绘教 Inkeys", "developer": "Alan-CRL" },
+        { "name": "icc! Community", "developer": "CJKmkp" },
+        { "name": "icc! Remastered", "developer": "流焰xwx" },
+        { "name": "Ink Canvas Better", "developer": "BaiYang2238" },
+        { "name": "LanStartWrite", "developer": "wwiinnddyy" },
+        { "name": "OpenBoard", "developer": "OpenBoard-org" }
+      ]
+    },
+    {
+      "id": "course-management",
+      "name": "课程管理",
+      "description": "涵盖课表展示、班级信息管理以及相关生态插件",
+      "projects": [
+        { "name": "ClassIsland", "developer": "HelloWRC" },
+        { "name": "Class Widgets", "developer": "RinLit" },
+        { "name": "ZongziTEK 黑板贴", "developer": "ZongziTEK" },
+        { "name": "ElectronClassSchedule", "developer": "EnderWolf006" },
+        { "name": "ExtraIsland", "developer": "LiPolymer" },
+        { "name": "IslandCaller", "developer": "HUSX100" }
+      ]
+    },
+    {
+      "id": "info-display",
+      "name": "信息展示与看板",
+      "description": "用于教室大屏的信息展示，包含日常看板、考试看板、倒计时等场景",
+      "projects": [
+        { "name": "Ris_ClassTool 瑞思课堂工具", "developer": "PYLXU" },
+        { "name": "Classworks", "developer": "SunWuyuan" },
+        { "name": "极序", "developer": "极序" },
+        { "name": "Sticky-attention", "developer": "jizilin6732" },
+        { "name": "ClassBoardSharp", "developer": "Candlest" },
+        { "name": "凌云班级组件", "developer": "Yamikani-Flipped" },
+        { "name": "Education Clock", "developer": "Return-Log" },
+        { "name": "班级热搜排行", "developer": "SRInternet-Studio" },
+        { "name": "TimerIn", "developer": "SRInternet-Studio" },
+        { "name": "ExamSchedule", "developer": "MKStoler1024" },
+        { "name": "考试看板", "developer": "Hello8693" },
+        { "name": "考试语音播报系统", "developer": "cloudy059" },
+        { "name": "ExamClock", "developer": "L33Z22L11" },
+        { "name": "FinitoBoard", "developer": "Xwei1645" }
+      ]
+    },
+    {
+      "id": "classroom-interaction",
+      "name": "课堂互动",
+      "description": "随机点名、抽号器等活跃课堂气氛的互动工具",
+      "projects": [
+        { "name": "OpenLuckyRandom", "developer": "WhatDamon" },
+        { "name": "ExCaller", "developer": "typed-sigterm" },
+        { "name": "ClassNamePicker", "developer": "Chengzi600" },
+        { "name": "Rand 抽号器", "developer": "LuoYunXi0407" },
+        { "name": "NamePicker", "developer": "LHGS-github" },
+        { "name": "SecRandom", "developer": "SECTL" },
+        { "name": "RandPicker", "developer": "xuanxuan1231" },
+        { "name": "蓝屏抽奖机", "developer": "Lanpinggai666" }
+      ]
+    },
+    {
+      "id": "system-utils",
+      "name": "系统工具与辅助",
+      "description": "一体机系统增强、自动化登录、PPT辅助、视频展台等实用工具合集",
+      "projects": [
+        { "name": "希沃定制启动器", "developer": "SRInternet-Studio" },
+        { "name": "HugoAura", "developer": "Minoricew" },
+        { "name": "ENAL 希沃易登", "developer": "Xiaocuitang" },
+        { "name": "C30 智能教学自动登录工具", "developer": "WSXYT" },
+        { "name": "PPT 触屏辅助", "developer": "RinLit" },
+        { "name": "全能班辅", "developer": "XeonMEMZ" },
+        { "name": "MythwareToolkit", "developer": "BengbuGuards" },
+        { "name": "EasiAuto", "developer": "hxabcd" },
+        { "name": "ShowWrite 视频展台", "developer": "wwcrdrvf6u" },
+        { "name": "SmartBoardTools", "developer": "FeedWhisper5148" },
+        { "name": "SeewoSplash", "developer": "fengyec2" },
+        { "name": "VoiceHub", "developer": "laoshuikaixue" }
+      ]
+    }
+  ],
+  "meta": {
+    "total": 48,
+    "license": "CC BY-NC-SA 4.0",
+    "project": "Awesome IWB",
+    "description": "专为广大中小学电教打造的班级一体机软件推荐清单"
+  }
+}
